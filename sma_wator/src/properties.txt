@@ -1,0 +1,9 @@
+nbAgent : 1
+canvasX : 200
+canvasY : 200
+gridX : 10
+gridY : 10
+nbTicks : 500
+tmps : 1000
+torus : true
+grille : true
